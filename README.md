@@ -1,3 +1,5 @@
+### The Basic
+##
 ~~~javascript
 // As variáveis são declaradas com a palavra-chave var:
 var x;  // Declara uma variável chamada x.
